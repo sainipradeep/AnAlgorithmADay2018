@@ -1,1 +1,1 @@
-This algorithm was pretty straight forward but the main thing I was able to take from this is iterating through a dictionary.  I would like to improve this algorithm and optimize theruntime and memory
+This algorithm was pretty straight forward but the main thing I was able to take from this is iterating through a dictionary.  I would like to improve this algorithm and optimize the runtime and memory
