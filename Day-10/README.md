@@ -1,0 +1,1 @@
+so i may have cheated by using a dictionary. i would like to use the greedy approach and re examine this. as of now, i solved with store key and values and then iterating through the dict and finding the only key that has the value of 1.  based on the description of the problem, it looks like there would always just be the one.  otherwise there would be edge cases to consider
