@@ -1,0 +1,1 @@
+so i cheated by using python's list slicing.  i doubt i would get away with this in an acutal interview.
