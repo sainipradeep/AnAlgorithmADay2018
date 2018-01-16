@@ -1,0 +1,1 @@
+This algorithm takes in two sorted lists and returns one, new sorted list.  . both lists have to be non-empty. l1 will consistently be the smaller node by swapping with l2 if it is not.
