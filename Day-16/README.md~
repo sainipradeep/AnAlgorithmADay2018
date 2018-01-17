@@ -1,1 +1,0 @@
-this is a very fundamental linked list algorithm.  you basically have a current pointer and a previous pointer and you do a 'swap' as you traverse through the linked list"  i'd like to draw a diagram better explaining how this solution works."
