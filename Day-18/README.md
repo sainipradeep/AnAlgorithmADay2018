@@ -1,0 +1,1 @@
+This algorithm is pretty cool in that it traverses through the linked list and while doing it, it looks ahead one and checks in the curr.next has the same value as the curr.  if it does, then it skips curr.next and goes to curr.next.next.  runtime is O(n)^2 which isn't great but the solution runs at 51ms.
