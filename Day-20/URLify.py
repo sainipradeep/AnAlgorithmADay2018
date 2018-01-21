@@ -1,5 +1,6 @@
 # Day 20/365 #AnAlgorithmAday2018
-# Problem is from CTCI 1.3emove Elements
+# Problem is from CTCI 1.3 
+#Remove Elements
 #
 #Write a method to replaxce all spaces in a string with a string '%20'. you are given the true length of the string
 #
