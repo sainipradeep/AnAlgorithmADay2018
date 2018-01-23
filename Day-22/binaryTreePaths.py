@@ -40,8 +40,15 @@ class Solution(object):
             result = [str(root.val) + "->" + x for x in result]
 
         if root.right:
-            result = self.binaryTreePaths(root.right)
-            result = [str(root.val) + "->" + x for x in temp]
+            temp = self.binaryTreePaths(root.right)
+            temp = [str(root.val) + "->" + x for x in temp]
             result += temo
 
         return result
+
+
+
+
+
+
+
