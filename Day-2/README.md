@@ -1,1 +1,1 @@
-This problem has several solutions which I plan on exploring and adding to my current one.  One solution is to solve in a pythonic way but returning the string by slicing backwards [::-1].
+This problem has several solutions which I plan on exploring and adding to my current one.  One solution is to solve in a pythonic way but returning the string by slicing backwards [::-1].  In my solution, i have created an empty string and iterate through the string and concatenate to the empty string, backwards.
