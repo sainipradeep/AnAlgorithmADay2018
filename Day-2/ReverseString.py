@@ -9,6 +9,11 @@
 ###############################################################################################################################
 
 def reverseString(str):
-    return s[::-1]
+    reversedStr = ""
+
+    for char in str:
+        reversedStr = char + reversedStr
+
+    return reversedStr
 
     
