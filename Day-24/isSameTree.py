@@ -1,4 +1,4 @@
-# Day 254/365 #AnAlgorithmAday2018
+# Day 24/365 #AnAlgorithmAday2018
 # Problem is from Leetcode 100
 #
 # Same Tree
