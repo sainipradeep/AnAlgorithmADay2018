@@ -25,11 +25,32 @@
 #Example 2:
 #Input: 
 #    2
-3   / \
-3  2   2
+#3   / \
+#3  2   2
 #
 #Output: -1
 #Explanation: The smallest value is 2, but there isn't any second smallest value.
 ########################################################################################################################
+
+class TreeNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
+
+class Solution(object):
+    def secondMinimumNodeInBinaryTree(self, root):
+
+        def dfs(node):
+            if node:
+                s.add(node.val)
+                dfs(node.left)
+                dfs(node.right)
+
+            s = set()
+            dfs(root)
+            s.remove(min(s))
+            return min(s) if s else -1
 
 
